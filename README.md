@@ -13,11 +13,14 @@ Among the 5 boroughs of New York City, which one has the highest number of assau
 Importance:
 ​​Understanding the distribution of assault arrests across New York City's boroughs and various age groups, and subsequently identifying the racial demographic with the highest number of arrests within the most affected borough and age group, is of paramount importance for effective law enforcement and community well-being. This question enables a nuanced analysis that goes beyond mere crime statistics. By pinpointing the borough with the highest assault arrests, law enforcement can strategically allocate resources to address specific geographic hotspots. By looking at different age groups, we can create programs that are better suited to the needs of specific communities. Additionally, finding out which racial group has the highest number of arrests helps us have conversations about whether there might be unfair treatment happening and how we can make sure policing is fair for everyone. In essence, this question addresses not only the where and when of assault arrests but also delves into the who, providing insights crucial for fostering safer communities and promoting fairness within the criminal justice system.
 
+
 <img width="634" alt="Screen Shot 2023-12-04 at 9 58 38 PM" src="https://github.com/aanjum2003/NYPDcrime/assets/148798153/36e9145c-c42f-487f-bb14-86453a8c48ae">
+
 
 Upon completing our analysis using Tableau, the data reveals that Brooklyn has the highest count of assault arrests. The criminal offenses we selected are “Felony Assault” and “Assault 3 and Related Offenses”.  This insight is visually represented through the utilization of a stacked bar graph. Brooklyn has the most total arrests for assault of any borough at 11,164, with the Bronx just behind at 11,097. Staten Island has by far the least assault arrests, at 1,685. Across each borough, the age range with the greatest number of assault arrests is between 25 and 44 years old. Brooklyn also had the highest number of assault arrests for this age range of any borough, totaling 6,541 arrests.
 
 <img width="648" alt="Screen Shot 2023-12-04 at 10 09 21 PM" src="https://github.com/aanjum2003/NYPDcrime/assets/148798153/7d8e6f63-425d-4c8b-b3f6-fcb3b7aee264">
+
 
 In order to further our investigation, we looked at the racial distribution of arrests in Brooklyn for those aged 25 to 44. This extra layer of information is helpful because it offers a more complex picture of the demographics associated with these arrests. This helps identify any potential disparities or patterns that can guide focused intervention efforts through social programs and advance equity in law enforcement procedures.
 
