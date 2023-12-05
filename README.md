@@ -10,7 +10,6 @@ Our dataset shows all of the NYPD arrest records in the 5 boroughs of New York C
 #Question 1:
 Among the 5 boroughs of New York City, which one has the highest number of assault arrests across various age groups, and how do the other boroughs differ? Additionally, considering the borough and age group with the highest assault arrests, what racial demographic shows the highest number of arrests for assault?
 
-
 #Importance:
 ​​Understanding the distribution of assault arrests across New York City's boroughs and various age groups, and subsequently identifying the racial demographic with the highest number of arrests within the most affected borough and age group, is of paramount importance for effective law enforcement and community well-being. This question enables a nuanced analysis that goes beyond mere crime statistics. By pinpointing the borough with the highest assault arrests, law enforcement can strategically allocate resources to address specific geographic hotspots. By looking at different age groups, we can create programs that are better suited to the needs of specific communities. Additionally, finding out which racial group has the highest number of arrests helps us have conversations about whether there might be unfair treatment happening and how we can make sure policing is fair for everyone. In essence, this question addresses not only the where and when of assault arrests but also delves into the who, providing insights crucial for fostering safer communities and promoting fairness within the criminal justice system.
 
