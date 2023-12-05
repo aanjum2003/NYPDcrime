@@ -42,7 +42,7 @@ We created a visual representation of the total arrest counts per month using a 
 
 In order to shed more insight on the most common offenses, we expanded our analysis by examining the most common crimes for May because it is the month with the most arrests. According to our analysis, assault was consistently the most common offense, with petit larceny coming in second. This information is essential because it gives law enforcement a thorough grasp of the kinds of crimes that frequently lead to arrest rates. Law enforcement agencies can tailor their strategies and allocate resources effectively to address these specific challenges. 
 
-# Manipulation Applied to the Dataset::
+# Manipulations Applied to the Dataset:
 In our data preparation process, we prioritized the highest quality, cleanliness, and standardization of the dataset. Leveraging Tableau's Data Interpreter feature, we refined the raw data, aligning it with usability and relevance standards. The commitment to delivering reliable insights resulted in a standardized dataset without the need for manipulation, characterized by quantifiable measurements. In addition, a thorough elimination of potential data issues was conducted, resulting in a dataset that is free from duplicates, irrelevant entries, redundancies, and inaccuracies. We curated a comprehensive dataset that is not only clean but also devoid of incomplete or low-quality information. 
 
 # Tableau Packaged Workbook:
