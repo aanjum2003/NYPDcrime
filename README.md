@@ -6,7 +6,7 @@ Our dataset, sourced from the US Data.gov website, encompasses all NYPD arrest r
 
 # Team Members:
 Team Members:
-Dylan McMorrow - https://github.com/dylanmcmorrow5/MIST4610GroupProject2
+Dylan McMorrow - https://github.com/dylanmcmorrow5/MIST4610GroupProject2  
 Aafreen Anjum -
 Jack Drummond -https://github.com/jdrum7/NYPD_Crime_Data
 Ishi Gupta - https://github.com/ishigupta24/healthcare/blob/main/README%20(1).md
