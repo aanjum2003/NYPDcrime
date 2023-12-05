@@ -21,7 +21,7 @@ Upon completing our analysis using Tableau, the data reveals that Brooklyn has t
 
 In order to further our investigation, we looked at the racial distribution of arrests in Brooklyn for those aged 25 to 44. This extra layer of information is helpful because it offers a more complex picture of the demographics associated with these arrests. This helps identify any potential disparities or patterns that can guide focused intervention efforts through social programs and advance equity in law enforcement procedures.
 
-Question 2:
+# Question 2:
 Which months in the current year have witnessed the highest number of arrests, and how do they compare to the estimated arrest totals for remaining months of 2023? For the month with the highest number of arrests, what specific offenses were most frequently cited in those arrests?
 
 Importance: 
@@ -37,10 +37,10 @@ We created a visual representation of the total arrest counts per month using a 
 
 In order to shed more insight on the most common offenses, we expanded our analysis by examining the most common crimes for May because it is the month with the most arrests. According to our analysis, assault was consistently the most common offense, with petit larceny coming in second. This information is essential because it gives law enforcement a thorough grasp of the kinds of crimes that frequently lead to arrest rates. Law enforcement agencies can tailor their strategies and allocate resources effectively to address these specific challenges. 
 
-Manipulations Applied to the Dataset:
+# Manipulation Applied to the Dataset::
 In our data preparation process, we prioritized the highest quality, cleanliness, and standardization of the dataset. Leveraging Tableau's Data Interpreter feature, we refined the raw data, aligning it with usability and relevance standards. The commitment to delivering reliable insights resulted in a standardized dataset without the need for manipulation, characterized by quantifiable measurements. In addition, a thorough elimination of potential data issues was conducted, resulting in a dataset that is free from duplicates, irrelevant entries, redundancies, and inaccuracies. We curated a comprehensive dataset that is not only clean but also devoid of incomplete or low-quality information. 
 
-Tableau Packaged Workbook: 
+# Tableau Packaged Workbook:
 The packaged workbook containing the visualizations shown above is attached to this repository.
 Our dataset, sourced from the US Data.gov website, encompasses all NYPD arrest records in New York City's five boroughs for the year 2023, providing detailed information on arrest types, locations, and demographics, including gender, race, and age groups categorized into five brackets.
 
